@@ -9,3 +9,5 @@ Patrice Yasser (192100047- 192100047@ecu.edu.eg)
 
 Project Description:A simple Student Attendance System typically involves: 1. Managing groups of students (e.g., courses, sections, or year groups). 2. Recording attendance for individual students or entire groups. 3. Calculating attendance statistics (e.g., total present, percentage).
 4.Hierarchical structure: a Course contains multiple Sections, each Section contains multiple Students.
+
+PS: the screenrecord should be downloaded to be displayed
